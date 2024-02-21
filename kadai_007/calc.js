@@ -1,4 +1,4 @@
-let num = Math.floor(Math.random() * 29) + 1;
+let num = Math.floor(Math.random() * 30) + 1;
 //変数numの値が3と5の倍数であれば、「3と5の倍数です」という文字列を出力する
 if (num % 15 === 0){
     console.log('3と5の倍数です');
